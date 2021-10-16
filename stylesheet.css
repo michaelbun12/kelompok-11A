@@ -76,6 +76,9 @@ header {
     padding: 180px 0 100px 0;
     background-image: url(hospital4.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
     color: white;
     height: 500px;
   }
